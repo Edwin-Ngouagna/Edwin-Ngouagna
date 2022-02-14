@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edwin-Ngouagna
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on react projects
+- 🌱 I’m currently learning angular
+- 💞️ I’m looking to collaborate on angular projects
 - 📫 How to reach me edwinlongchingouagna@gmail.com
 
 <!---
