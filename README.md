@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Edwin-Ngouagna
-- 👀 I’m a data analyst and interested in web development
-- 🌱 I’m currently upskilling in Python, R and SQL
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m a Data Analyst and grooming my skills to become a Data Engineer 
+- 🌱 I have 5 years of experience in Excell, SPSS, and Power BI.
+- I’m upskilling in Python, R, SQL, and Azure.
+- 💞️ I want to collaborate on projects, particularly Power Bi, ETL, and Machine learning.
 - 📫 How to reach me edwinlongchingouagna@gmail.com
 
 <!---
