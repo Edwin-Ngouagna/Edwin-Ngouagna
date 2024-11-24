@@ -3,7 +3,7 @@
 - 🌱 I have 5 years of experience in Excel, SPSS, and Power BI.
 - I’m upskilling in Python, R, SQL, and Azure.
 - 💞️ I want to collaborate on projects, particularly Power BI, Data Pipelines, ETL, and Machine learning.
-- 📫 How to reach me edwinlongchingouagna@gmail.com
+- 📫 
 
 <!---
 Edwin-Ngouagna/Edwin-Ngouagna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
